@@ -1,7 +1,7 @@
 # Crud-Usuarios-Spring
 Crud realizado con java spring boot y jquery
 
-1\. Instalar python para correr el front, dejo el instalador en el zip (Esto es para correr el front en un servidor con un puerto con el que se comunicara con el back end)
+1\. Instalar python para correr el front, (Esto es para correr el front en un servidor con un puerto con el que se comunicara con el back end)
 
 2\. Si el proyecto front se abre desde el visual studio code abrir una terminal y ejecutar el comando **python -m http.server 5500.**
 
